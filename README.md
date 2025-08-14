@@ -1,4 +1,4 @@
-# ESPHome
+# ESPHome Levoit Core200s
 
 An electronic board designed to replace the Levoit Core 200s air purifier control board (because I broke it).
 Only the "Fan speed" and "Power" buttons are functional.
