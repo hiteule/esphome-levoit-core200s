@@ -33,10 +33,6 @@ captive_portal:
 
 external_components:
   - source:
-      type: local
-      path: ../esphome/components
-    components: [ "levoit-core200s" ]
-  - source:
       type: git
       url: https://github.com/hiteule/esphome-levoit-core200s
       ref: master
